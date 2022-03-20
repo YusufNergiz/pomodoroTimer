@@ -9,4 +9,4 @@
 #------------------------------
 ![First Cycle](Images/FirstCycle.PNG)
 #------------------------------
-![First Break](Images/FirstBreak.PNG)
+![First Break](Images/FirstBreak.png)
