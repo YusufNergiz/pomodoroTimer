@@ -6,7 +6,8 @@
 ### At the end of the third and last cycle a 15 minute break gets displayed.
 
 ![Main Menu](Images/MainMenu.PNG)
-#------------------------------
+# -----------------------------------
 ![First Cycle](Images/FirstCycle.PNG)
-#------------------------------
+# ------------------------------------
 ![First Break](Images/FirstBreak.png)
+# -----------------------------------
