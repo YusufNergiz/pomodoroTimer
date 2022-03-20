@@ -5,4 +5,4 @@
 ### At the end of each cycle except for the last one a 5 minute long break gets displayed.
 ### At the end of the third and last cycle a 15 minute break gets displayed.
 
-![Main Menu](Images)
+![Main Menu](Images/MainMenu.PNG)
